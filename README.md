@@ -19,3 +19,5 @@ This repository is located at https://github.com/grundsalg-aarhus/grundsalg_web
 To support interactive maps in the WEB subsystem and proxy to supply geoJSON is need.
 
 ![Proxy architecture](https://raw.githubusercontent.com/grundsalg-aarhus/docs/develop/kort_overview.png)
+
+![Angular architecture](https://raw.githubusercontent.com/grundsalg-aarhus/docs/develop/kort_angular_overview.png)
